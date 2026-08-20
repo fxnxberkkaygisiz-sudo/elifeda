@@ -12,7 +12,8 @@ function JsonLdScript({ data }: { data: unknown }) {
 
 /** Ana sayfa: Person + WebSite + ProfilePage + hizmet kataloğu. */
 export function PersonJsonLd() {
-  const { profile, seo, socials, credentials, education } = getPerson();
+  const { profile, seo, socials, credentials, education, contact } =
+    getPerson();
   const base = siteUrl();
 
   const alumni = credentials
@@ -39,7 +40,27 @@ export function PersonJsonLd() {
         jobTitle: profile.title,
         description: profile.shortBio,
         url: base,
-        image: profile.avatar ? `${base}${profile.avatar}` : undefined,
+        mainEntityOfPage: { "@id": `${base}/#webpage` },
+        image: profile.avatar
+          ? {
+              "@type": "ImageObject",
+              url: `${base}${profile.avatar}`,
+              width: profile.avatarWidth,
+              height: profile.avatarHeight,
+              caption: profile.avatarAlt || profile.fullName,
+            }
+          : undefined,
+        email: contact.email || undefined,
+        telephone: contact.phone || undefined,
+        hasOccupation: {
+          "@type": "Occupation",
+          name: profile.title,
+          occupationLocation: {
+            "@type": "City",
+            name: profile.location,
+          },
+          skills: profile.knowsAbout.join(", "),
+        },
         address: {
           "@type": "PostalAddress",
           addressLocality: profile.location,

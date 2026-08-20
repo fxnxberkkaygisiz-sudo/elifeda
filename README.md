@@ -25,9 +25,21 @@ npm run start   # üretim sunucusu
 npm run lint    # eslint
 ```
 
+## SEO
+
+Kurulu olanlar: `sitemap.xml`, `robots.txt`, `manifest.webmanifest`,
+kanonik adresler, OpenGraph + Twitter kartları, dinamik OG görseli
+(Archivo gömülü, `src/fonts/`), Person / WebSite / ProfilePage /
+BreadcrumbList / FAQPage / ItemList JSON-LD ve güvenlik başlıkları
+(`next.config.ts`).
+
+İkon seti `src/app/` (favicon.ico, icon.png, apple-icon.png) ve
+`public/icons/` (192 / 512 / maskable) altında. Yeniden üretmek için
+`public/icons/mark.svg` kaynak alınabilir.
+
 ## Tamamlanmayı bekleyenler
 
 - `seo.googleSiteVerification` — Search Console doğrulama kodu
 - `contact.email` — iletişim e-postası
-- `socials` — sosyal medya hesapları (şu an boş)
+- `seo.twitterHandle` ve `socials` — sosyal medya hesapları (şu an boş)
 - `brokers` — Pusula Yatırım referansı eklendi, onay bekliyor

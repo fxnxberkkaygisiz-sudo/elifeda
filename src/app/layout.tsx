@@ -28,11 +28,16 @@ export const metadata: Metadata = {
   publisher: profile.fullName,
   applicationName: seo.siteName,
   category: "finance",
-  alternates: { canonical: "/" },
+  referrer: "origin-when-cross-origin",
+  alternates: {
+    canonical: "/",
+    languages: { "tr-TR": base },
+  },
   openGraph: {
     type: "profile",
     firstName: profile.firstName,
     lastName: profile.lastName,
+    gender: "female",
     title: seo.titleDefault,
     description: seo.description,
     url: base,
@@ -44,6 +49,12 @@ export const metadata: Metadata = {
     title: seo.titleDefault,
     description: seo.description,
     creator: seo.twitterHandle || undefined,
+    site: seo.twitterHandle || undefined,
+  },
+  appleWebApp: {
+    capable: true,
+    title: seo.siteName,
+    statusBarStyle: "black-translucent",
   },
   robots: {
     index: true,
