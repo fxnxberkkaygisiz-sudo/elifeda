@@ -1,0 +1,468 @@
+{
+  "profile": {
+    "firstName": "Elif Eda",
+    "lastName": "Türkmen",
+    "fullName": "Elif Eda Türkmen",
+    "title": "Yatırımcı & Finans Eğitmeni",
+    "tagline": "Disiplinli yatırım anlayışını veri odaklı analiz ve sürdürülebilir stratejilerle birleştiriyorum.",
+    "shortBio": "Borsa İstanbul'da 8 yılı aşkın piyasa deneyimine sahip yatırımcı ve finans eğitmeni. Teknik analiz, temel analiz ve risk yönetimi ilkelerini birlikte değerlendirerek sistematik yatırım stratejileri geliştiriyor.",
+    "location": "İstanbul",
+    "birthPlace": "",
+    "yearsOfExperience": 8,
+    "avatar": "/img/portre-kirmizi.jpg",
+    "avatarWidth": 800,
+    "avatarHeight": 800,
+    "avatarAlt": "Elif Eda Türkmen portresi",
+    "photos": {
+      "portrait": {
+        "src": "/img/portre-kirmizi.jpg",
+        "w": 800,
+        "h": 800,
+        "alt": "Elif Eda Türkmen, kırmızı takım elbiseyle portre"
+      },
+      "closeup": {
+        "src": "/img/portre-yakin.jpg",
+        "w": 640,
+        "h": 640,
+        "alt": "Elif Eda Türkmen yakın plan portre"
+      },
+      "desk": {
+        "src": "/img/calisma-masasi.jpg",
+        "w": 1024,
+        "h": 1024,
+        "alt": "Elif Eda Türkmen çalışma masasında not alırken"
+      },
+      "signing": {
+        "src": "/img/protokol-imza.jpg",
+        "w": 1024,
+        "h": 1024,
+        "alt": "Elif Eda Türkmen kurumsal iş birliği protokolü imza töreninde"
+      },
+      "ceremony": {
+        "src": "/img/protokol-toren.jpg",
+        "w": 1256,
+        "h": 848,
+        "alt": "Elif Eda Türkmen protokol töreninde kurum temsilcileriyle"
+      }
+    },
+    "languages": [
+      "Türkçe",
+      "İngilizce"
+    ],
+    "knowsAbout": [
+      "Borsa İstanbul",
+      "BIST 100",
+      "BIST 30",
+      "Hisse senedi analizi",
+      "Teknik analiz",
+      "Temel analiz",
+      "Risk yönetimi",
+      "Yatırım stratejisi",
+      "Portföy disiplini",
+      "Yatırımcı eğitimi",
+      "Finansal okuryazarlık"
+    ]
+  },
+  "seo": {
+    "siteName": "Elif Eda Türkmen",
+    "titleDefault": "Elif Eda Türkmen — Yatırımcı & Finans Eğitmeni",
+    "titleTemplate": "%s | Elif Eda Türkmen",
+    "description": "Elif Eda Türkmen, Borsa İstanbul'da 8 yılı aşkın deneyime sahip yatırımcı ve finans eğitmenidir. Teknik analiz, temel analiz ve risk yönetimini birleştiren sistematik yatırım yaklaşımı, eğitim ve mentorluk programları.",
+    "keywords": [
+      "Elif Eda Türkmen",
+      "Elif Eda",
+      "yatırımcı",
+      "finans eğitmeni",
+      "borsa eğitmeni",
+      "Borsa İstanbul",
+      "BIST analiz",
+      "hisse senedi analizi",
+      "teknik analiz",
+      "temel analiz",
+      "risk yönetimi",
+      "yatırım stratejisi",
+      "borsa mentorluk",
+      "finansal okuryazarlık"
+    ],
+    "alternateNames": [
+      "Elif Eda",
+      "Elif Eda Türkmen",
+      "elifeda.com.tr"
+    ],
+    "url": "https://elifeda.com.tr",
+    "locale": "tr_TR",
+    "twitterHandle": "",
+    "googleSiteVerification": "",
+    "yandexVerification": ""
+  },
+  "navigation": [
+    {
+      "label": "Hakkında",
+      "href": "/ozgecmis"
+    },
+    {
+      "label": "Yaklaşım",
+      "href": "/piyasa-yaklasimi"
+    },
+    {
+      "label": "Eğitim",
+      "href": "/egitimler"
+    },
+    {
+      "label": "Aracı Kurum",
+      "href": "/araci-kurumlar"
+    },
+    {
+      "label": "Medya",
+      "href": "/medya"
+    },
+    {
+      "label": "S.S.S.",
+      "href": "/sorular"
+    },
+    {
+      "label": "İletişim",
+      "href": "/iletisim"
+    }
+  ],
+  "pages": {
+    "ozgecmis": {
+      "tag": "Künye",
+      "h1": "Elif Eda Türkmen Kimdir?",
+      "title": "Hakkında",
+      "description": "Elif Eda Türkmen'nın mesleki geçmişi, sermaye piyasalarındaki çalışma alanları ve yatırım yaklaşımını şekillendiren temel ilkeler.",
+      "intro": "Teorik bilgi birikimini Borsa İstanbul'da edindiği uygulamalı deneyimle birleştirerek sistematik yatırım stratejileri geliştirdi."
+    },
+    "piyasa-yaklasimi": {
+      "tag": "Yöntem",
+      "h1": "Piyasa Yaklaşımı",
+      "title": "Piyasa Yaklaşımı",
+      "description": "Elif Eda Türkmen'nın dört aşamalı piyasa okuma çerçevesi: makro bağlam, hisse seçimi, işlem planı ve risk disiplini.",
+      "intro": "Her karar aynı dört adımdan geçer. Sıra değişmez; sonuç değişir."
+    },
+    "egitimler": {
+      "tag": "Program",
+      "h1": "Eğitim ve Mentorluk",
+      "title": "Eğitim & Mentorluk",
+      "description": "Sınırlı kontenjanlı grup eğitimleri, uygulamalı atölyeler ve birebir mentorluk programı. Ezber değil, tekrarlanabilir bir karar süreci.",
+      "intro": "Amaç sinyal vermek değil; katılımcının kendi sinyalini üretebilmesi."
+    },
+    "araci-kurumlar": {
+      "tag": "İş Birliği",
+      "h1": "Çalıştığım Aracı Kurumlar",
+      "title": "Aracı Kurumlar",
+      "description": "Elif Eda Türkmen'nın birlikte çalıştığı, SPK tarafından yetkilendirilmiş aracı kurumlar. Referansla hesap açılışı ve kayıt koşulları.",
+      "intro": "Hesap açılışı tamamen ilgili kurumun kendi süreçleri ve SPK mevzuatı kapsamında gerçekleşir."
+    },
+    "medya": {
+      "tag": "Arşiv",
+      "h1": "Medya ve Protokoller",
+      "title": "Medya & Protokoller",
+      "description": "Elif Eda Türkmen'nın katıldığı kurumsal iş birliği imza törenleri, konferanslar ve basın karelerinden bir seçki.",
+      "intro": "Kurumsal iş birlikleri, imza törenleri ve saha programlarından kareler."
+    },
+    "sorular": {
+      "tag": "S.S.S.",
+      "h1": "Sıkça Sorulan Sorular",
+      "title": "Sıkça Sorulan Sorular",
+      "description": "Elif Eda Türkmen'ya en sık sorulan sorular: eğitim programları, mentorluk süreci, aracı kurum kayıtları ve yatırım tavsiyesi kapsamı.",
+      "intro": "Kapsam, süreç ve sınırlar hakkında en sık gelen soruların yanıtları."
+    },
+    "iletisim": {
+      "tag": "Bağlantı",
+      "h1": "İletişim",
+      "title": "İletişim",
+      "description": "Eğitim, mentorluk, kurumsal iş birliği ve konuşmacı davetleri için Elif Eda Türkmen ile iletişim kanalları.",
+      "intro": "Eğitim, kurumsal iş birliği ve konuşmacı davetleri için yazabilirsiniz."
+    }
+  },
+  "about": {
+    "heading": "Teorik altyapıyı, sahada edinilmiş uygulamalı deneyimle birleştirmek",
+    "body": [
+      "Borsa İstanbul'da 8 yılı aşkın piyasa deneyimiyle, disiplinli yatırım anlayışını veri odaklı analiz ve sürdürülebilir stratejilerle birleştiren bir yatırımcı ve finans eğitmeniyim.",
+      "Finansal piyasalara olan ilgim, Ankara Üniversitesi Politika ve Ekonomi lisans eğitimim süresince şekillendi. Lisans eğitimimin ardından İstanbul Üniversitesi Finans alanındaki yüksek lisans eğitimimle akademik altyapımı güçlendirdim. Teorik bilgi birikimimi Borsa İstanbul'da edindiğim uygulamalı deneyimle birleştirerek sistematik yatırım stratejileri geliştirdim.",
+      "Yaklaşık sekiz yıldır hisse senedi piyasalarında aktif olarak işlem yapıyor; teknik analiz, temel analiz ve risk yönetimi ilkelerini birlikte değerlendirerek sürdürülebilir yatırım yaklaşımını benimsiyorum.",
+      "Eğitim ve mentorluk çalışmalarımda yatırımcıların kendi analizlerini yapabilecek bilgi ve disipline ulaşmalarını hedefliyorum. Amacım hazır sinyal vermek değil; katılımcının kendi kararını gerekçelendirebilecek çerçeveyi kurması."
+    ],
+    "quote": "Hedefim yatırımcıların kendi analizlerini yapabilecek bilgi ve disipline ulaşmaları.",
+    "highlights": [
+      {
+        "title": "8+ Yıl Piyasa Deneyimi",
+        "description": "Borsa İstanbul'da hisse senedi piyasalarında aktif işlem deneyimi ve saha içinde biriktirilmiş piyasa hafızası."
+      },
+      {
+        "title": "Akademik Altyapı",
+        "description": "Ankara Üniversitesi Politika ve Ekonomi lisansı, İstanbul Üniversitesi Finans yüksek lisansı."
+      },
+      {
+        "title": "Bütünleşik Analiz",
+        "description": "Teknik analiz, temel analiz ve risk yönetimi ilkelerinin ayrı ayrı değil, birlikte değerlendirilmesi."
+      },
+      {
+        "title": "Eğitim ve Mentorluk",
+        "description": "Yatırımcıların kendi analizlerini yapabilecek bilgi ve disipline ulaşmasını hedefleyen programlar."
+      }
+    ]
+  },
+  "credentials": [
+    {
+      "name": "İstanbul Üniversitesi",
+      "detail": "Yüksek Lisans — Finans",
+      "kind": "education"
+    },
+    {
+      "name": "Ankara Üniversitesi",
+      "detail": "Lisans — Politika ve Ekonomi",
+      "kind": "education"
+    }
+  ],
+  "method": {
+    "heading": "Dört aşamalı karar çerçevesi",
+    "description": "Hangi enstrüman olursa olsun sıra aynı: önce bağlam, sonra seçim, sonra plan, en sonda uygulama. Adım atlanmaz.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Makro Bağlam",
+        "description": "Faiz patikası, enflasyon beklentisi ve piyasa genelindeki risk iştahı. Borsa İstanbul'un hangi rejimde olduğu tanımlanmadan hisse seçilmez."
+      },
+      {
+        "step": "02",
+        "title": "Sektör ve Şirket",
+        "description": "Rejime uygun sektör rotasyonu; ardından bilanço kalitesi, nakit akışı ve değerleme çarpanlarıyla hisse eleme."
+      },
+      {
+        "step": "03",
+        "title": "İşlem Planı",
+        "description": "Giriş bölgesi, hedef, zarar kes seviyesi ve pozisyon büyüklüğü işlem açılmadan önce yazılır. Plansız pozisyon açılmaz."
+      },
+      {
+        "step": "04",
+        "title": "Risk ve Takip",
+        "description": "Portföy bazında toplam risk sınırı, korelasyon kontrolü ve periyodik gözden geçirme. Yanılma senaryosu her zaman tanımlıdır."
+      }
+    ]
+  },
+  "expertise": [
+    "Borsa İstanbul hisse senedi analizi",
+    "BIST endeks ve sektör okuması",
+    "Teknik analiz ve fiyat davranışı",
+    "Temel analiz ve değerleme",
+    "Risk yönetimi ve pozisyon disiplini",
+    "Sürdürülebilir yatırım stratejisi",
+    "Portföy kurgusu",
+    "Yatırımcı psikolojisi"
+  ],
+  "education": {
+    "heading": "Programlar",
+    "description": "Küçük ve sınırlı kontenjanlı gruplarla, tamamen uygulamalı biçimde yürütülür. Kayıtlı ders yerine canlı grafik ve gerçek vaka üzerinden ilerlenir.",
+    "items": [
+      {
+        "title": "Temel Seviye Borsa Programı",
+        "level": "Başlangıç",
+        "description": "Sermaye piyasasının işleyişi, emir tipleri, temel göstergeler ve ilk portföyün kurulması. Hiç bilmeyenler için tasarlandı."
+      },
+      {
+        "title": "Fiyat Davranışı Atölyesi",
+        "level": "Orta",
+        "description": "Destek-direnç, hacim teyidi, trend yapısı ve formasyonların canlı grafik üzerinde uygulamalı okunması."
+      },
+      {
+        "title": "Portföy ve Risk Yönetimi",
+        "level": "İleri",
+        "description": "Pozisyon büyüklüğü hesabı, korelasyon, çeşitlendirme ve toplam portföy riskinin sayısal olarak yönetilmesi."
+      },
+      {
+        "title": "Birebir Mentorluk",
+        "level": "Kişiye özel",
+        "description": "Katılımcının mevcut portföyü ve işlem günlüğü üzerinden yürütülen, sınırlı kontenjanlı özel program."
+      }
+    ]
+  },
+  "markets": [
+    {
+      "region": "BIST 100",
+      "label": "Ana Endeks",
+      "description": "Endeksin genel yönü, ağırlıklı hisselerin katkısı ve piyasa genelindeki risk iştahının okunması."
+    },
+    {
+      "region": "BIST 30",
+      "label": "Ağır Sıklet Hisseler",
+      "description": "Endeksi sürükleyen büyük ölçekli şirketlerde bilanço, değerleme ve fiyat davranışı takibi."
+    },
+    {
+      "region": "SEKTÖR",
+      "label": "Sektör Endeksleri",
+      "description": "Bankacılık, sanayi, holding ve teknoloji endekslerinde rotasyon ile hisse bazlı çalışmalar."
+    }
+  ],
+  "brokers": {
+    "tag": "İş Birliği",
+    "heading": "Referanslı aracı kurumlar",
+    "description": "Aşağıdaki aracı kuruma referansımla kayıt olarak avantajlı koşullardan yararlanabilirsiniz.",
+    "note": "Hesap açılışı, kimlik doğrulama ve tüm işlem süreçleri ilgili aracı kurumun kendi sistemleri ve SPK mevzuatı kapsamında yürütülür. Bu sayfa yatırım tavsiyesi içermez.",
+    "items": [
+      {
+        "name": "Pusula Yatırım",
+        "role": "SPK yetkili aracı kurum",
+        "description": "Sermaye Piyasası Kurulu tarafından yetkilendirilmiş aracı kurum. Referansla açılan hesaplarda kurumun tanımladığı koşullar geçerlidir.",
+        "registerLabel": "Hesap Aç",
+        "registerHref": "https://isube.pusulayatırım.com.tr/iletisim/online-hesap-olustur"
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "Paylaşımlarınız yatırım tavsiyesi mi?",
+      "a": "Hayır. Sitede ve eğitimlerde yer alan hiçbir içerik yatırım danışmanlığı kapsamında değildir. Tüm paylaşımlar genel bilgilendirme ve eğitim amaçlıdır; yatırım kararlarınızın sorumluluğu size aittir."
+    },
+    {
+      "q": "Portföy yönetiyor musunuz?",
+      "a": "Hayır. Üçüncü kişiler adına portföy yönetimi veya bireysel yatırım danışmanlığı hizmeti vermiyorum. Bu faaliyetler yalnızca SPK tarafından yetkilendirilmiş kurumlarca yürütülebilir."
+    },
+    {
+      "q": "Eğitimler nasıl ilerliyor?",
+      "a": "Küçük gruplarla, canlı grafik ve gerçek vaka üzerinden uygulamalı olarak. Kayıtlı ders izleme yerine katılımcının kendi işlem planını yazması ve savunması esas alınır."
+    },
+    {
+      "q": "Hiç bilgim yok, başlayabilir miyim?",
+      "a": "Evet. Temel Seviye Borsa Programı, sermaye piyasasını hiç bilmeyen katılımcılar için tasarlandı; ön koşul aranmaz."
+    },
+    {
+      "q": "Aracı kurum kaydı zorunlu mu?",
+      "a": "Hayır. Referanslı kurum üzerinden kayıt tamamen isteğe bağlıdır. Eğitim ve mentorluk programlarına katılım için herhangi bir kurumda hesap açma şartı bulunmaz."
+    },
+    {
+      "q": "Kurumsal iş birliği veya konuşmacı daveti nasıl iletilir?",
+      "a": "İletişim sayfasındaki e-posta üzerinden kurum adı, program kapsamı ve tarih aralığını içeren bir not iletmeniz yeterli."
+    }
+  ],
+  "socials": [],
+  "contact": {
+    "email": "",
+    "phone": "",
+    "note": "Eğitim, mentorluk, kurumsal iş birliği ve konuşmacı davetleri için e-posta üzerinden ulaşabilirsiniz. Bireysel yatırım tavsiyesi ve portföy yönetimi talepleri yanıtlanmaz."
+  },
+  "footerLinks": [
+    {
+      "label": "Hakkında",
+      "href": "/ozgecmis"
+    },
+    {
+      "label": "Piyasa Yaklaşımı",
+      "href": "/piyasa-yaklasimi"
+    },
+    {
+      "label": "Eğitim & Mentorluk",
+      "href": "/egitimler"
+    },
+    {
+      "label": "Aracı Kurumlar",
+      "href": "/araci-kurumlar"
+    },
+    {
+      "label": "Medya",
+      "href": "/medya"
+    },
+    {
+      "label": "S.S.S.",
+      "href": "/sorular"
+    },
+    {
+      "label": "İletişim",
+      "href": "/iletisim"
+    },
+    {
+      "label": "Yasal Uyarı",
+      "href": "/yasal-uyari"
+    }
+  ],
+  "legal": {
+    "tag": "Yasal",
+    "title": "Yasal Uyarı ve Kapsam",
+    "intro": "Bu sitede yer alan tüm içerik genel bilgilendirme ve eğitim amaçlıdır. Lütfen aşağıdaki kapsamı dikkatle okuyunuz.",
+    "disclaimer": "Bu sitedeki içerikler yatırım danışmanlığı kapsamında değildir ve yatırım tavsiyesi niteliği taşımaz.",
+    "copyright": "Tüm hakları saklıdır.",
+    "sections": [
+      {
+        "title": "Yatırım tavsiyesi değildir",
+        "body": "Sitede yer alan yorum, analiz, grafik ve eğitim içerikleri yalnızca genel bilgilendirme amacı taşır. Yatırım danışmanlığı; aracı kurumlar, portföy yönetim şirketleri ve mevduat kabul etmeyen bankalar ile müşteri arasında imzalanacak sözleşme çerçevesinde sunulur. Burada yer alan içerikler kişisel mali durumunuz ve risk tercihlerinizle uyumlu olmayabilir."
+      },
+      {
+        "title": "Sorumluluk sınırı",
+        "body": "İçerikler güvenilir olduğu düşünülen kaynaklardan derlenmiştir; ancak doğruluğu ve eksiksizliği garanti edilmez. Bu içeriklere dayanılarak alınan yatırım kararlarının sonuçlarından site sahibi sorumlu tutulamaz. Geçmiş performans gelecekteki getirinin göstergesi değildir."
+      },
+      {
+        "title": "Portföy yönetimi yapılmaz",
+        "body": "Üçüncü kişiler adına portföy yönetimi, alım-satım işlemi veya bireysel yatırım danışmanlığı hizmeti verilmemektedir. Bu yönde gelen talepler yanıtlanmaz."
+      },
+      {
+        "title": "Aracı kurum bağlantıları",
+        "body": "Sitede yer alan aracı kurum bağlantıları, ilgili kurumların kendi kayıt sayfalarına yönlendirir. Hesap açılışı, kimlik doğrulama, işlem koşulları ve komisyon oranları tamamen ilgili kurumun sorumluluğundadır. Bu bağlantıların kullanımı isteğe bağlıdır."
+      },
+      {
+        "title": "Telif hakkı",
+        "body": "Sitedeki metin, görsel ve eğitim materyallerinin tamamı telif hakkı korumasındadır. İzinsiz kopyalanamaz, çoğaltılamaz veya ticari amaçla kullanılamaz."
+      },
+      {
+        "title": "Kişisel veriler",
+        "body": "İletişim formu veya e-posta yoluyla iletilen kişisel veriler yalnızca talebin yanıtlanması amacıyla işlenir; üçüncü kişilerle paylaşılmaz. KVKK kapsamındaki haklarınız için iletişim adresinden başvurabilirsiniz."
+      }
+    ]
+  },
+  "sitemap": [
+    {
+      "path": "/",
+      "changeFrequency": "weekly",
+      "priority": 1
+    },
+    {
+      "path": "/ozgecmis",
+      "changeFrequency": "monthly",
+      "priority": 0.9
+    },
+    {
+      "path": "/piyasa-yaklasimi",
+      "changeFrequency": "monthly",
+      "priority": 0.8
+    },
+    {
+      "path": "/egitimler",
+      "changeFrequency": "monthly",
+      "priority": 0.8
+    },
+    {
+      "path": "/araci-kurumlar",
+      "changeFrequency": "monthly",
+      "priority": 0.7
+    },
+    {
+      "path": "/medya",
+      "changeFrequency": "monthly",
+      "priority": 0.6
+    },
+    {
+      "path": "/sorular",
+      "changeFrequency": "monthly",
+      "priority": 0.6
+    },
+    {
+      "path": "/iletisim",
+      "changeFrequency": "yearly",
+      "priority": 0.5
+    },
+    {
+      "path": "/yasal-uyari",
+      "changeFrequency": "yearly",
+      "priority": 0.3
+    }
+  ],
+  "sections": {
+    "credentials": true,
+    "method": true,
+    "markets": true,
+    "education": true,
+    "brokers": true,
+    "media": true,
+    "faq": true
+  }
+}
