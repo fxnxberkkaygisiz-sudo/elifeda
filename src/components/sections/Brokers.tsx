@@ -14,7 +14,11 @@ export function Brokers() {
         description={brokers.description}
       />
 
-      <div className="mt-14 grid gap-px lg:grid-cols-2">
+      <div
+        className={`mt-14 grid gap-px ${
+          brokers.items.length >= 2 ? "lg:grid-cols-3" : "lg:grid-cols-2"
+        }`}
+      >
         {brokers.items.map((broker) => (
           <article
             key={broker.name}
