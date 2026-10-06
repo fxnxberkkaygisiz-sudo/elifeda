@@ -302,18 +302,11 @@
     "note": "Hesap açılışı, kimlik doğrulama ve tüm işlem süreçleri ilgili aracı kurumun kendi sistemleri ve SPK mevzuatı kapsamında yürütülür. Bu sayfa yatırım tavsiyesi içermez.",
     "items": [
       {
-        "name": "Pusula Yatırım",
+        "name": "Ereğli Menkul",
         "role": "SPK yetkili aracı kurum",
         "description": "Sermaye Piyasası Kurulu tarafından yetkilendirilmiş aracı kurum. Referansla açılan hesaplarda kurumun tanımladığı koşullar geçerlidir.",
         "registerLabel": "Hesap Aç",
-        "registerHref": "https://isube.pusulayatırım.com.tr/iletisim/online-hesap-olustur"
-      },
-      {
-        "name": "Peker Menkul",
-        "role": "SPK yetkili aracı kurum",
-        "description": "Borsa İstanbul pay piyasası ve VİOP işlemleri, portföy yönetimi ve araştırma raporları sunan, SPK tarafından yetkilendirilmiş aracı kurum. Referansla açılan hesaplarda kurumun tanımladığı koşullar geçerlidir.",
-        "registerLabel": "Hesap Aç",
-        "registerHref": "https://hesapac.pekermenkul.com.tr"
+        "registerHref": "https://ereglimenkul.org"
       }
     ]
   },
