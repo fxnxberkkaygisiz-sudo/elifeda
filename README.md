@@ -42,4 +42,4 @@ BreadcrumbList / FAQPage / ItemList JSON-LD ve güvenlik başlıkları
 - `seo.googleSiteVerification` — Search Console doğrulama kodu
 - `contact.email` — iletişim e-postası
 - `seo.twitterHandle` ve `socials` — sosyal medya hesapları (şu an boş)
-- `brokers` — Ereğli Menkul referansı eklendi, onay bekliyor
+- `brokers` — Ulu Menkul referansı eklendi, onay bekliyor

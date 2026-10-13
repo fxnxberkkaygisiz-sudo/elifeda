@@ -58,21 +58,45 @@ export default function AraciKurumlarPage() {
                 <p className="mono text-[0.6875rem] tracking-[0.12em] text-white/70 uppercase">
                   {broker.role}
                 </p>
-                <h2 className="text-display mt-5">{broker.name}</h2>
+                {broker.logo ? (
+                  <h2 className="mt-6">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
+                      src={broker.logo}
+                      alt={broker.name}
+                      className="h-14 w-auto max-w-[280px] object-contain object-left"
+                    />
+                  </h2>
+                ) : (
+                  <h2 className="text-display mt-5">{broker.name}</h2>
+                )}
               </div>
               <div className="md:col-span-7">
                 <p className="text-body-lg text-white/85">{broker.description}</p>
-                {broker.registerHref ? (
-                  <a
-                    href={broker.registerHref}
-                    target="_blank"
-                    rel="noopener noreferrer sponsored"
-                    className="mono text-signal hover:bg-ink mt-8 inline-flex items-center gap-2.5 bg-white px-7 py-4 text-[0.6875rem] font-semibold tracking-[0.1em] uppercase transition-colors hover:text-white"
-                  >
-                    {broker.registerLabel}
-                    <span aria-hidden="true">↗</span>
-                  </a>
-                ) : null}
+                <div className="mt-8 flex flex-wrap gap-3">
+                  {broker.registerHref ? (
+                    <a
+                      href={broker.registerHref}
+                      target="_blank"
+                      rel="noopener noreferrer sponsored"
+                      className="mono text-signal hover:bg-ink inline-flex items-center gap-2.5 bg-white px-7 py-4 text-[0.6875rem] font-semibold tracking-[0.1em] uppercase transition-colors hover:text-white"
+                    >
+                      {broker.registerLabel}
+                      <span aria-hidden="true">↗</span>
+                    </a>
+                  ) : null}
+                  {broker.secondaryHref ? (
+                    <a
+                      href={broker.secondaryHref}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="mono hover:text-signal inline-flex items-center gap-2.5 border border-white/60 px-7 py-4 text-[0.6875rem] font-semibold tracking-[0.1em] text-white uppercase transition-colors hover:bg-white"
+                    >
+                      {broker.secondaryLabel}
+                      <span aria-hidden="true">↗</span>
+                    </a>
+                  ) : null}
+                </div>
               </div>
             </article>
           ))}

@@ -28,12 +28,23 @@ export function Brokers() {
               <p className="mono text-[0.6875rem] tracking-[0.12em] text-white/70 uppercase">
                 {broker.role}
               </p>
-              <h3 className="text-display mt-5">{broker.name}</h3>
+              {broker.logo ? (
+                <h3 className="mt-6">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img
+                    src={broker.logo}
+                    alt={broker.name}
+                    className="h-12 w-auto max-w-[260px] object-contain object-left"
+                  />
+                </h3>
+              ) : (
+                <h3 className="text-display mt-5">{broker.name}</h3>
+              )}
               <p className="mt-5 max-w-md text-white/85">{broker.description}</p>
             </div>
 
             {broker.registerHref ? (
-              <div className="mt-10">
+              <div className="mt-10 flex flex-wrap gap-3">
                 <a
                   href={broker.registerHref}
                   target="_blank"
@@ -43,6 +54,17 @@ export function Brokers() {
                   {broker.registerLabel}
                   <span aria-hidden="true">↗</span>
                 </a>
+                {broker.secondaryHref ? (
+                  <a
+                    href={broker.secondaryHref}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="mono hover:text-signal inline-flex items-center gap-2.5 border border-white/60 px-7 py-4 text-[0.6875rem] font-semibold tracking-[0.1em] text-white uppercase transition-colors hover:bg-white"
+                  >
+                    {broker.secondaryLabel}
+                    <span aria-hidden="true">↗</span>
+                  </a>
+                ) : null}
               </div>
             ) : null}
           </article>

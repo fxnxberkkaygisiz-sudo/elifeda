@@ -153,6 +153,8 @@ const personSchema = z.object({
             description: z.string().optional().default(""),
             registerLabel: z.string().optional().default("Hesap Aç"),
             registerHref: z.string().optional().default(""),
+            secondaryLabel: z.string().optional().default(""),
+            secondaryHref: z.string().optional().default(""),
           })
         )
         .default([]),
