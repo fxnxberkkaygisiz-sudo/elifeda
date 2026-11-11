@@ -70,14 +70,14 @@ export function Brokers() {
           </article>
         ))}
 
-        <div className="border-rule flex flex-col justify-between border p-9 md:p-11">
-          <div>
+        <div className="border-rule flex flex-col justify-between gap-10 border p-9 md:p-11 lg:col-span-full lg:flex-row lg:items-end">
+          <div className="max-w-3xl">
             <p className="mono text-faint text-[0.6875rem] tracking-[0.12em] uppercase">
               Kapsam
             </p>
             <p className="text-body-lg text-muted mt-6">{brokers.note}</p>
           </div>
-          <div className="mt-10">
+          <div className="shrink-0">
             <ActionLink href="/araci-kurumlar" variant="outline">
               Ayrıntılar
             </ActionLink>

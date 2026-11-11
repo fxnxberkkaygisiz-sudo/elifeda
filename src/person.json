@@ -302,15 +302,35 @@
     "note": "Hesap açılışı, kimlik doğrulama ve tüm işlem süreçleri ilgili aracı kurumun kendi sistemleri ve SPK mevzuatı kapsamında yürütülür. Bu sayfa yatırım tavsiyesi içermez.",
     "items": [
       {
-          "name": "Ulu Menkul",
-          "role": "SPK yetkili aracı kurum",
-          "logo": "/images/ulu-menkul-beyaz.png",
-          "description": "Sermaye Piyasası Kurulu tarafından yetkilendirilmiş aracı kurum. Referansla açılan hesaplarda kurumun tanımladığı koşullar geçerlidir.",
-          "registerLabel": "Hesap Aç",
-          "registerHref": "https://hesapac.ulumenkul.com.tr/",
-          "secondaryLabel": "Online Şube",
-          "secondaryHref": "https://onlinesube.ulumenkul.com.tr/"
-        }
+        "name": "Ereğli Menkul",
+        "role": "SPK yetkili aracı kurum",
+        "logo": "/images/eregli-menkul-beyaz.png",
+        "description": "Sermaye Piyasası Kurulu tarafından yetkilendirilmiş aracı kurum. Referansla açılan hesaplarda kurumun tanımladığı koşullar geçerlidir.",
+        "registerLabel": "Hesap Aç",
+        "registerHref": "https://hesapac.ereglimenkul.net/bireysel/basvuru",
+        "secondaryLabel": "Online Şube",
+        "secondaryHref": "https://onlinesube.ereglimenkul.net/bireysel/internet-subesi/giris"
+      },
+      {
+        "name": "Ulu Menkul",
+        "role": "SPK yetkili aracı kurum",
+        "logo": "/images/ulu-menkul-beyaz.png",
+        "description": "Sermaye Piyasası Kurulu tarafından yetkilendirilmiş aracı kurum. Referansla açılan hesaplarda kurumun tanımladığı koşullar geçerlidir.",
+        "registerLabel": "Hesap Aç",
+        "registerHref": "https://hesapac.ulumenkul.com.tr/",
+        "secondaryLabel": "Online Şube",
+        "secondaryHref": "https://onlinesube.ulumenkul.com.tr/"
+      },
+      {
+        "name": "Osmanlı Menkul",
+        "role": "SPK yetkili aracı kurum",
+        "logo": "/images/osmanli-menkul-beyaz.png",
+        "description": "Sermaye Piyasası Kurulu tarafından yetkilendirilmiş aracı kurum. Referansla açılan hesaplarda kurumun tanımladığı koşullar geçerlidir.",
+        "registerLabel": "Hesap Aç",
+        "registerHref": "https://dijitalhesap.xn--osmanlmenkul-64b.com.tr/",
+        "secondaryLabel": "Online Şube",
+        "secondaryHref": "https://esube.xn--osmanlmenkul-64b.com.tr/bireysel/internet-subesi/giris"
+      }
     ]
   },
   "faq": [
