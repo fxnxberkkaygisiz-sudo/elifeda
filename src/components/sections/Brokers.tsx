@@ -16,7 +16,7 @@ export function Brokers() {
 
       <div
         className={`mt-14 grid gap-px ${
-          brokers.items.length >= 2 ? "lg:grid-cols-3" : "lg:grid-cols-2"
+          brokers.items.length >= 3 ? "lg:grid-cols-3" : "lg:grid-cols-2"
         }`}
       >
         {brokers.items.map((broker) => (

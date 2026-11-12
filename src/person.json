@@ -320,16 +320,6 @@
         "registerHref": "https://hesapac.ulumenkul.com.tr/",
         "secondaryLabel": "Online Şube",
         "secondaryHref": "https://onlinesube.ulumenkul.com.tr/"
-      },
-      {
-        "name": "Osmanlı Menkul",
-        "role": "SPK yetkili aracı kurum",
-        "logo": "/images/osmanli-menkul-beyaz.png",
-        "description": "Sermaye Piyasası Kurulu tarafından yetkilendirilmiş aracı kurum. Referansla açılan hesaplarda kurumun tanımladığı koşullar geçerlidir.",
-        "registerLabel": "Hesap Aç",
-        "registerHref": "https://dijitalhesap.osmanlimenkul.org/",
-        "secondaryLabel": "Online Şube",
-        "secondaryHref": "https://esube.osmanlimenkul.org/bireysel/internet-subesi/giris"
       }
     ]
   },
