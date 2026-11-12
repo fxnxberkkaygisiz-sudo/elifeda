@@ -327,9 +327,9 @@
         "logo": "/images/osmanli-menkul-beyaz.png",
         "description": "Sermaye Piyasası Kurulu tarafından yetkilendirilmiş aracı kurum. Referansla açılan hesaplarda kurumun tanımladığı koşullar geçerlidir.",
         "registerLabel": "Hesap Aç",
-        "registerHref": "https://dijitalhesap.xn--osmanlmenkul-64b.com.tr/",
+        "registerHref": "https://dijitalhesap.osmanlimenkul.org/",
         "secondaryLabel": "Online Şube",
-        "secondaryHref": "https://esube.xn--osmanlmenkul-64b.com.tr/bireysel/internet-subesi/giris"
+        "secondaryHref": "https://esube.osmanlimenkul.org/bireysel/internet-subesi/giris"
       }
     ]
   },
